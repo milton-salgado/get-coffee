@@ -74,7 +74,7 @@ Versão atual: 1.0 (primeira versão)
 Ao fazer esse projeto, aprendi a:
 
 - Aplicar responsividade em projetos web utilizando o @media em CSS
-- Seguir o conceito de mobile-first para estabelecer responsividade em dispositivos móveis
+- Seguir o conceito de "mobile-first" para estabelecer responsividade em dispositivos móveis
 - Estilizar elementos para se adaptar de acordo com tipos e tamanhos de tela diferentes
 - Aplicar espaçamentos específicos com padding e margin no CSS
 - Utilizar a propriedade position para posicionar os elementos de acordo com tipos e tamanhos de tela diferentes
