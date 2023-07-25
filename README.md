@@ -28,7 +28,7 @@ Esse projeto foi proposto na última aula prática do módulo 01 do curso de fro
 
 As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
-- Alterar a grossura da fonte dos itens da barra de navegação ao passar com o cursor do mouse por cima
+- Alterar a espessura de fonte dos itens da barra de navegação ao passar com o cursor do mouse por cima
 - Clicar em um botão especial
 - Utilizar a página web em qualquer dispositivo de forma simples, intuitiva e com uma excelente visualização
 
