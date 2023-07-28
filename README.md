@@ -39,7 +39,7 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 ### 📸 Prévia
 <div align="center">
   <img src="./img/desktop-index.png">
-  <img src="./img/mobile-index.png" width="375" height = "812" align="center">
+  <img src="./img/mobile-index.png" width="375" height="812" align="center">
 </div>
 
 
