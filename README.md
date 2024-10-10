@@ -23,7 +23,8 @@ Uma "landing page" de uma rede de cafeterias fictícia chamada "Get Coffee".
 ## 📋 Descrição
 
 Este é um projeto de uma "landing page" de uma rede de cafeterias fictícia chamada "Get Coffee".
-Esse projeto foi proposto na última aula prática do módulo 01 do curso de front-end do "Vai na Web", cujo tema principal era a introdução ao conceito de responsividade com @media em CSS, com auxílio das propriedades de flexbox e position. O modelo a ser seguido foi apresentado na plataforma de design "Figma".
+Esse projeto foi proposto na última aula prática do módulo 01 do curso de front-end do "Vai na Web", cujo tema principal era a introdução ao conceito de responsividade com @media em CSS, com auxílio das propriedades de flexbox e position. O modelo a ser seguido foi apresentado na plataforma de design "Figma". 
+Além disso, o projeto também foi proposto em uma aula prática do curso de desenvolvimento full-stack do "Vai na Web", com o objetivo praticar a utilização de CSS com SASS.
 
 ### 🚀 Funcionalidades
 
