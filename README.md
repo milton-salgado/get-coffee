@@ -15,6 +15,7 @@ Uma "landing page" de uma rede de cafeterias fictícia chamada "Get Coffee".
     - [🛠️ Ferramentas](#️-ferramentas)
     - [📌 Versão](#-versão)
   - [✏️ Aprendizado](#️-aprendizado)
+  - [📢 Novidades](#-novidades)
   - [✒️ Autores](#️-autores)
   - [🎁 Agradecimentos](#-agradecimentos)
   - [📨 Contato](#-contato)
@@ -38,8 +39,8 @@ As funcionalidades disponíveis para os usuários estão listadas abaixo:
 
 ### 📸 Prévia
 <div align="center">
-  <img src="./img/desktop-index.png">
-  <img src="./img/mobile-index.png" width="375" height="812" align="center">
+  <img src="./assets/images/desktop-index.png">
+  <img src="./assets/images/mobile-index.png" width="375" height="812" align="center">
 </div>
 
 
@@ -67,7 +68,9 @@ Ferramentas utilizadas na construção do projeto:
 
 Utilizei o Git para o controle de versão. 
 
-Versão atual: 1.0 (primeira versão)
+Versão atual: 2.0 (segunda versão, atualizada com SASS)
+
+Versões anteriores: 1.0 (primeira versão)
 
 ## ✏️ Aprendizado
 
@@ -80,13 +83,21 @@ Ao fazer esse projeto, aprendi a:
 - Utilizar a propriedade position para posicionar os elementos de acordo com tipos e tamanhos de tela diferentes
 - Criar uma "landing page" responsiva com HTML e CSS
 
+## 📢 Novidades
+
+Atualizei o projeto com as seguintes melhorias:
+
+- **SASS (Syntactically Awesome Style Sheets)**: O uso do SASS foi incorporado ao projeto, melhorando a organização dos estilos e tornando o código mais modular e fácil de manter.
+- **Estrutura aprimorada**: Refatorei o código para incluir funcionalidades como aninhamento, proporcionando uma manutenção mais eficiente.
+
 ## ✒️ Autores
 
 * **Milton Salgado Leandro** - *Todo o Projeto* - [GitHub](https://github.com/milton-salgado)
 
 ## 🎁 Agradecimentos
 
-* Agradeço ao instrutor João Pedro Belo e aos facilitadores Merry Esperança e Naiara Souza pelo auxílio no meu processo de aprendizagem e apoio na construção do projeto.
+* Agradeço ao instrutor João Pedro Belo e aos facilitadores Merry Esperança e Naiara Souza pelo auxílio no meu processo de aprendizagem e apoio na construção do projeto no curso de Desenvolvimento Front-End.
+* Também gostaria de agradecer especialmente ao instrutor Vinicius Bispo e à facilitadora Marina Gomes por todo o suporte e ensinamentos durante o curso de Desenvolvimento Full-Stack, sendo possível a atualização do projeto de CSS para SASS.
 * Agradeço também a você, visitante, por visualizar o meu projeto!
 
 ## 📨 Contato
